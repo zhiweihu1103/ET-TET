@@ -1,5 +1,5 @@
 # Transformer-based Entity Typing in Knowledge Graphs
-#### This repo provides the source code & data of our paper: Transformer-based Entity Typing in Knowledge Graphs (EMNLP2022).
+#### This repo provides the source code & data of our paper: [Transformer-based Entity Typing in Knowledge Graphs (EMNLP2022)](https://arxiv.org/pdf/2210.11151.pdf).
 
 ## Dependencies
 * conda create -n tet python=3.7 -y
