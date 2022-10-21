@@ -77,7 +77,7 @@ If you find this code useful, please consider citing the following paper.
   author={Zhiwei Hu and Víctor Gutiérrez-Basulto and Zhiliang Xiang and and Ru Li and Jeff Z. Pan},
   title={Transformer-based Entity Typing in Knowledge Graphs},
   publisher="The Conference on Empirical Methods in Natural Language Processing",
-  year= {2022}
+  year={2022}
 }
 ```
 ## Acknowledgement
