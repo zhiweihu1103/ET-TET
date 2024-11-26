@@ -74,7 +74,7 @@ CUDA_VISIBLE_DEVICES=1 python ./run.py --dataset $DATASET --save_path $SAVE_DIR_
 If you find this code useful, please consider citing the following paper.
 ```
 @article{
-  author={Zhiwei Hu and Víctor Gutiérrez-Basulto and Zhiliang Xiang and and Ru Li and Jeff Z. Pan},
+  author={Zhiwei Hu and Víctor Gutiérrez-Basulto and Zhiliang Xiang and Ru Li and Jeff Z. Pan},
   title={Transformer-based Entity Typing in Knowledge Graphs},
   publisher="The Conference on Empirical Methods in Natural Language Processing",
   year={2022}
